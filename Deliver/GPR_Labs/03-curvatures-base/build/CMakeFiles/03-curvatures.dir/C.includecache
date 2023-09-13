@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../gl3w/GL/gl3w.h
+GL/glcorearb.h
+-
+
+../gl3w/GL/glcorearb.h
+windows.h
+-
+KHR/khrplatform.h
+-
+
+/home/misham/MIRI/GPR/03-curvatures-base/gl3w/gl3w.c
+GL/gl3w.h
+-
+stdlib.h
+-
+windows.h
+-
+dlfcn.h
+-
+dlfcn.h
+-
+

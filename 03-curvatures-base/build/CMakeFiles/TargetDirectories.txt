@@ -1,0 +1,3 @@
+/home/misham/MIRI/GPR/03-curvatures-base/build/CMakeFiles/rebuild_cache.dir
+/home/misham/MIRI/GPR/03-curvatures-base/build/CMakeFiles/03-curvatures.dir
+/home/misham/MIRI/GPR/03-curvatures-base/build/CMakeFiles/edit_cache.dir
